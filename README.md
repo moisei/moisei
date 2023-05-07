@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moisei
 - 👀 I’m interested in the `Software Development`
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning AI models
 - 💞️ I’m looking to collaborate on `Software Development`
 - 📫 How to reach me: @moisei pretty much everywhere
 
