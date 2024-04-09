@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moisei
-- 👀 I’m interested in the `Software Development`
-- 🌱 I’m currently learning AI models
-- 💞️ I’m looking to collaborate on `Software Development`
+- 👀 I’m interested in the `Software Development`, `Devops` and `Software Architecture`
+- 🌱 I’m currently learning Security
+- 💞️ I’m looking to collaborate on `Devops`
 - 📫 How to reach me: @moisei pretty much everywhere
 
 <!---
