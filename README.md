@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moisei
 - 👀 I’m interested in the `Software Development`, `Devops` and `Software Architecture`
-- 🌱 I’m currently learning Security
+- 🌱 I’m currently learning `Security`
 - 💞️ I’m looking to collaborate on `Devops`
 - 📫 How to reach me: @moisei pretty much everywhere
 
